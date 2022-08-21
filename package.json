@@ -11,12 +11,12 @@
   },
   "name": "api",
   "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "nodemon index.js"
-  },
+  "main": "app.js",
   "author": "",
   "license": "ISC",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
   "engines": {
     "node": "16.13.0"
   },
